@@ -1,0 +1,29 @@
+C:\Users\djuni\Desktop\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2 - MeshRegister.csprojAssemblyReference.cache
+C:\Users\djuni\Desktop\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2___MixList.Form1.resources
+C:\Users\djuni\Desktop\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2___MixList.Properties.Resources.resources
+C:\Users\djuni\Desktop\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2 - MeshRegister.csproj.GenerateResource.cache
+C:\Users\djuni\Desktop\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2 - MeshRegister.csproj.CoreCompileInputs.cache
+C:\Users\djuni\Desktop\W2 - MeshRegister\W2 - MeshRegister\bin\Debug\W2 - MeshtextureList.exe.config
+C:\Users\djuni\Desktop\W2 - MeshRegister\W2 - MeshRegister\bin\Debug\W2 - MeshtextureList.exe
+C:\Users\djuni\Desktop\W2 - MeshRegister\W2 - MeshRegister\bin\Debug\W2 - MeshtextureList.pdb
+C:\Users\djuni\Desktop\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2 - MeshtextureList.exe
+C:\Users\djuni\Desktop\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2 - MeshtextureList.pdb
+C:\Users\Usuario\Desktop\W2 - MeshRegister\W2 - MeshRegister\bin\Debug\W2 - MeshtextureList.exe.config
+C:\Users\Usuario\Desktop\W2 - MeshRegister\W2 - MeshRegister\bin\Debug\W2 - MeshtextureList.exe
+C:\Users\Usuario\Desktop\W2 - MeshRegister\W2 - MeshRegister\bin\Debug\W2 - MeshtextureList.pdb
+C:\Users\Usuario\Desktop\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2 - MeshRegister.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2___MixList.Form1.resources
+C:\Users\Usuario\Desktop\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2___MixList.Properties.Resources.resources
+C:\Users\Usuario\Desktop\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2 - MeshRegister.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2 - MeshRegister.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2 - MeshtextureList.exe
+C:\Users\Usuario\Desktop\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2 - MeshtextureList.pdb
+C:\Users\Usuario\Desktop\arquivos HDD\Nova pasta (3)\W2 - MeshRegister\W2 - MeshRegister\bin\Debug\W2 - MeshtextureList.exe.config
+C:\Users\Usuario\Desktop\arquivos HDD\Nova pasta (3)\W2 - MeshRegister\W2 - MeshRegister\bin\Debug\W2 - MeshtextureList.exe
+C:\Users\Usuario\Desktop\arquivos HDD\Nova pasta (3)\W2 - MeshRegister\W2 - MeshRegister\bin\Debug\W2 - MeshtextureList.pdb
+C:\Users\Usuario\Desktop\arquivos HDD\Nova pasta (3)\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2 - MeshRegister.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\arquivos HDD\Nova pasta (3)\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2___MixList.Form1.resources
+C:\Users\Usuario\Desktop\arquivos HDD\Nova pasta (3)\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2___MixList.Properties.Resources.resources
+C:\Users\Usuario\Desktop\arquivos HDD\Nova pasta (3)\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2 - MeshRegister.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\arquivos HDD\Nova pasta (3)\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2 - MeshtextureList.exe
+C:\Users\Usuario\Desktop\arquivos HDD\Nova pasta (3)\W2 - MeshRegister\W2 - MeshRegister\obj\Debug\W2 - MeshtextureList.pdb

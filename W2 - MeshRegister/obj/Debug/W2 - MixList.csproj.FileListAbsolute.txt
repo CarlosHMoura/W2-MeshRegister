@@ -1,0 +1,20 @@
+C:\Users\Imobiliaria_2\source\repos\W2 - MixList\W2 - MixList\bin\Debug\W2 - MixList.exe.config
+C:\Users\Imobiliaria_2\source\repos\W2 - MixList\W2 - MixList\bin\Debug\W2 - MixList.exe
+C:\Users\Imobiliaria_2\source\repos\W2 - MixList\W2 - MixList\bin\Debug\W2 - MixList.pdb
+C:\Users\Imobiliaria_2\source\repos\W2 - MixList\W2 - MixList\obj\Debug\W2 - MixList.csprojResolveAssemblyReference.cache
+C:\Users\Imobiliaria_2\source\repos\W2 - MixList\W2 - MixList\obj\Debug\W2___MixList.Form1.resources
+C:\Users\Imobiliaria_2\source\repos\W2 - MixList\W2 - MixList\obj\Debug\W2___MixList.Properties.Resources.resources
+C:\Users\Imobiliaria_2\source\repos\W2 - MixList\W2 - MixList\obj\Debug\W2 - MixList.csproj.GenerateResource.Cache
+C:\Users\Imobiliaria_2\source\repos\W2 - MixList\W2 - MixList\obj\Debug\W2 - MixList.csproj.CoreCompileInputs.cache
+C:\Users\Imobiliaria_2\source\repos\W2 - MixList\W2 - MixList\obj\Debug\W2 - MixList.exe
+C:\Users\Imobiliaria_2\source\repos\W2 - MixList\W2 - MixList\obj\Debug\W2 - MixList.pdb
+C:\Users\djuni\Desktop\W2 - MixList\W2 - MixList\bin\Debug\W2 - MixList.exe.config
+C:\Users\djuni\Desktop\W2 - MixList\W2 - MixList\bin\Debug\W2 - MixList.exe
+C:\Users\djuni\Desktop\W2 - MixList\W2 - MixList\bin\Debug\W2 - MixList.pdb
+C:\Users\djuni\Desktop\W2 - MixList\W2 - MixList\obj\Debug\W2 - MixList.csprojAssemblyReference.cache
+C:\Users\djuni\Desktop\W2 - MixList\W2 - MixList\obj\Debug\W2___MixList.Form1.resources
+C:\Users\djuni\Desktop\W2 - MixList\W2 - MixList\obj\Debug\W2___MixList.Properties.Resources.resources
+C:\Users\djuni\Desktop\W2 - MixList\W2 - MixList\obj\Debug\W2 - MixList.csproj.GenerateResource.cache
+C:\Users\djuni\Desktop\W2 - MixList\W2 - MixList\obj\Debug\W2 - MixList.csproj.CoreCompileInputs.cache
+C:\Users\djuni\Desktop\W2 - MixList\W2 - MixList\obj\Debug\W2 - MixList.exe
+C:\Users\djuni\Desktop\W2 - MixList\W2 - MixList\obj\Debug\W2 - MixList.pdb
