@@ -168,7 +168,7 @@ public struct STRUCT_UITEXTURELIST
 [StructLayout(LayoutKind.Sequential, Pack = 1)]
 public struct STRUCT_ENVTEXTURELIST2
 {
-    [MarshalAs(UnmanagedType.ByValArray, SizeConst = 2048)]
+    [MarshalAs(UnmanagedType.ByValArray, SizeConst = 512)]
     public STRUCT_ENVTEXTURELIST[] File;
 }
 
@@ -227,7 +227,7 @@ public struct STRUCT_ENVTEXTURELIST
 [StructLayout(LayoutKind.Sequential, Pack = 1)]
 public struct STRUCT_EFFECTTEXTURELIST2
 {
-    [MarshalAs(UnmanagedType.ByValArray, SizeConst = 2048)]
+    [MarshalAs(UnmanagedType.ByValArray, SizeConst = 512)]
     public STRUCT_EFFECTTEXTURELIST[] File;
 }
 

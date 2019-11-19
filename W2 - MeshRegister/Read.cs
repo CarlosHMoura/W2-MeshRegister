@@ -133,16 +133,16 @@ namespace W2___MixList
 
             currentPath = patch;
 
-            int size = read.Length / Marshal.SizeOf<STRUCT_MESHTEXTURELIST>();
+            int Size = read.Length / Marshal.SizeOf<STRUCT_MESHTEXTURELIST>();
 
-            g_pMeshTextureList = new STRUCT_MESHTEXTURELIST[2048];
+            g_pMeshTextureList = new STRUCT_MESHTEXTURELIST[Size];
  
-            for (int i = 0; i < 2048; i++)
+            for (int i = 0; i < Size; i++)
             {
                 g_pMeshTextureList[i] = new STRUCT_MESHTEXTURELIST();
 
             }
-            for (int i = 0; i < 2048; i++)
+            for (int i = 0; i < Size; i++)
             {
                 g_pMeshTextureList[i] = ToStruct<STRUCT_MESHTEXTURELIST>(read, i * 264);
             }

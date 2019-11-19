@@ -1,0 +1,20 @@
+
+*.msa
+*.wys
+*.dat
+*.trn
+*.map
+*.scc
+*.ani
+*.msh
+*.bon
+*.txt
+*.mshb
+*.wyt
+*.CUR
+*.csv
+*.pdb
+W2 - MeshRegister/bin/Debug/Mesh/SkillData.bin
+*.cache
+*.pdb
+*.lock
